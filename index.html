@@ -11,7 +11,7 @@
   <div id="status" style="font-family: sans-serif; font-weight:300">Loading</div>
 </div>
 <script type="text/javascript">
-  window.onload = function() {
+  document.addEventListener('deviceready', function() {
     try {
       var url = " http://29a8b6d6.ngrok.com/site/index/app?client=phonegap/1.0";
       var xhr;
@@ -39,7 +39,7 @@
     }
     document.getElementById("status").innerHTML =
         "Click to reconnect";
-  };
+  }, false);
   window.onunload = function(){};
 </script>
 </body>
