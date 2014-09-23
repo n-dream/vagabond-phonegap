@@ -20,6 +20,6 @@
         <param name="APP_NAME" value="Vagabond Land" />
     </gap:plugin>
     <gap:plugin name="nl.x-services.plugins.socialsharing" version="4.3.6" />
-    <gap:plugin name="org.apache.cordova.inappbrowser" version="0.2.4" />
+    <gap:plugin name="org.apache.cordova.inappbrowser" version="0.3.3" />
 
 </widget>
