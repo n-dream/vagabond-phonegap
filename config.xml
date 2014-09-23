@@ -6,6 +6,7 @@
         version     = "1.0.0" >
 
     <name>Vagabond Land</name>
+    <icon src="icon.png" />
 
     <description>
         Use Vagabond to create, collect and share travel tips.
