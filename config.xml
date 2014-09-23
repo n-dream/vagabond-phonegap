@@ -12,6 +12,9 @@
         Use Vagabond to create, collect and share travel tips.
     </description>
 
+    <preference name="orientation" value="portrait" />
+    <preference name="exit-on-suspend" value="true" />
+
     <author href="https://www.vagabond.land" email="andrin@vagabond.land">
         Andrin von Rechenberg
     </author>
