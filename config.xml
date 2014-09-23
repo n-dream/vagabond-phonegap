@@ -13,7 +13,6 @@
     </description>
 
     <preference name="orientation" value="portrait" />
-    <preference name="exit-on-suspend" value="true" />
     <preference name="KeepRunning" value="false"/>
     <preference name="ErrorUrl" value="index.html"/>
 
